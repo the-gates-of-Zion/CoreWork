@@ -1,0 +1,16 @@
+{
+    "matchInstance":[
+        {
+            "Title":"Joshua to Succeed Moses",
+            "Message":[ "Grace to Succeed the Law", 
+                        "The Lord himself goes before you and will be with you;",
+                        "he will never leave you nor forsake you.",
+                        "Do not be afraid; do not be discouraged."
+                    ],
+            "OldTestament":[["Exodus 7:14-25"], ["Deuteronomy 31:1-8"]],
+            "NewTestament":[["John 2:1-10"], ["Hebrews 11:1-40","Hebrews 12:1" ]],
+            "SearchKey":["grace", "faith" , "miracle", "forgive"]
+        },
+        {}
+    ]
+}
