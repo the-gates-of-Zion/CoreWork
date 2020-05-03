@@ -12,6 +12,23 @@
             "SearchKey":["grace", "faith" , "miracle", "forgive"]
         },
         {
+            "Title":"Law, Punishment, Grace",
+            "Message":[ "Law, Punishment, Grace",
+                        "Moses represents Law; Elijah represents Judgement; Jesus represents Grace",
+                        "Among the three, the son of God is greatest, others are only servants",
+                        "Servants can not live in the house forever, but only the son", 
+                        "and only the son can inherit all the goods things from God",
+                        "Grace is by love, not by law",
+                        "(Exodus 21:1-6) God send his son Jesus on Earth",
+                        "Jesus serve us as a servant (Mark 10:45), yet, he have choice to leave (Exodus 21:1-6)",
+                        "Jesus love his church, so he want to be servant forever and take the cross for our sin",
+                        "Jesus take up our cross for us is by God's will and the love of Jesus on us"],
+            "OldTestament":[["Exodus 20:1-20"],["2 Kings 1:1-18"], "Exodus 21:1-6"],
+            "NewTestament":[["Matthew 17:1-26", "Mark 9:2-8"], ["Mark 12:13-17"], ["Luke 9:51-56"],["Mark 10:45"]],
+            "SearchKey":["law", "punishment", "grace"],
+            "reference": ""
+        },
+        {
             "Title":"The Lamp",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[[], []],
@@ -22,6 +39,15 @@
             "Title":"Its the best",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
+            "NewTestament":[["Hebrews 11:13-16"], []],
+            "OldTestamentC":[["但以理書 3:1-30"], []],
+            "NewTestamentC":[[], []],
+            "SearchKey":["lamp", "church"]
+        },
+        {
+            "Title":"Do not judge",
+            "Message":[ "Jesus is the center of all the things you do" ],
+            "OldTestament":[["Genesis 3:6-7"], ["Genesis 3:21"]],
             "NewTestament":[["Hebrews 11:13-16"], []],
             "OldTestamentC":[["但以理書 3:1-30"], []],
             "NewTestamentC":[[], []],
