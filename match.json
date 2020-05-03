@@ -11,6 +11,21 @@
             "NewTestament":[["John 2:1-10"], ["Hebrews 11:1-40","Hebrews 12:1" ]],
             "SearchKey":["grace", "faith" , "miracle", "forgive"]
         },
-        {}
+        {
+            "Title":"The Lamp",
+            "Message":[ "Jesus is the center of all the things you do" ],
+            "OldTestament":[[], []],
+            "NewTestament":[[], []],
+            "SearchKey":["lamp", "church"]
+        },
+        {
+            "Title":"Its the best",
+            "Message":[ "Jesus is the center of all the things you do" ],
+            "OldTestament":[["Daniel 3:1-30"], []],
+            "NewTestament":[["Hebrews 11:13-16"], []],
+            "OldTestamentC":[["但以理書 3:1-30"], []],
+            "NewTestamentC":[[], []],
+            "SearchKey":["lamp", "church"]
+        }
     ]
 }
