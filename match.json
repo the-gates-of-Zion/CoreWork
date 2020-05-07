@@ -9,7 +9,8 @@
                     ],
             "OldTestament":[["Exodus 7:14-25"], ["Deuteronomy 31:1-8"]],
             "NewTestament":[["John 2:1-10"], ["Hebrews 11:1-40","Hebrews 12:1" ]],
-            "SearchKey":["grace", "faith" , "miracle", "forgive"]
+            "SearchKey":["grace", "faith" , "miracle", "forgive"],
+            "on": true
         },
         {
             "Title":"Law, Punishment, Grace",
@@ -41,7 +42,8 @@
             "OldTestament":[["Exodus 20:1-20"],["2 Kings 1:1-18"], "Exodus 21:1-6"],
             "NewTestament":[["Matthew 17:1-26", "Mark 9:2-8"], ["Mark 12:13-17"], ["Luke 9:51-56"],["Mark 10:45"]],
             "SearchKey":["law", "punishment", "grace"],
-            "reference": ""
+            "reference": "",
+            "on": true
         },
         {
             "Title": "Servant and Son",
@@ -62,7 +64,8 @@
             ],
             "OldTestament":[["2 Samuel 9:1-13"]],
             "NewTestament":[["Matthew 20:1-16"]],
-            "SearchKey":["grace", "son", "rest", "servant", "law", "grumble"]
+            "SearchKey":["grace", "son", "rest", "servant", "law", "grumble"],
+            "on": true
         },
         {
             "Title": "Jesus told him, 'Don’t be afraid; just believe.' (Mark 5:36)",
@@ -103,14 +106,16 @@
                     ],
             "OldTestament":[[]],
             "NewTestament":[[]],
-            "SearchKey":[]
+            "SearchKey":[],
+            "on": true
         },
         {
             "Title":"The Lamp",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[[], []],
             "NewTestament":[[], []],
-            "SearchKey":["lamp", "church"]
+            "SearchKey":["lamp", "church"],
+            "on": true
         },
         {
             "Title":"Its beautiful",
@@ -119,7 +124,8 @@
             "NewTestament":[["Hebrews 11:13-16"], []],
             "OldTestamentC":[["但以理書 3:1-30"], []],
             "NewTestamentC":[[], []],
-            "SearchKey":["lamp", "church"]
+            "SearchKey":["lamp", "church"],
+            "on": true
         },
         {
             "Title":"Do not judge",
@@ -128,7 +134,8 @@
             "NewTestament":[["Hebrews 11:13-16"], []],
             "OldTestamentC":[["但以理書 3:1-30"], []],
             "NewTestamentC":[[], []],
-            "SearchKey":["lamp", "church"]
+            "SearchKey":["lamp", "church"],
+            "on": true
         }
     ]
 }
