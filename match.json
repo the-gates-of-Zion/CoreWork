@@ -110,15 +110,21 @@
             "on": true
         },
         {
-            "Title":"The Lamp",
-            "Message":[ "Jesus is the center of all the things you do" ],
-            "OldTestament":[[], []],
-            "NewTestament":[[], []],
-            "SearchKey":["lamp", "church"],
+            "Title":"I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.(John 16:33)",
+            "Message":[ "Jesus once said 'In this world you will have trouble. But take heart! I have overcome the world.' ", 
+                        "Jesus do not pray that we leave this world, Jesus once Pray to God :'My prayer is not that you (God) take them out of the world but that you protect them from the evil one.'(John 17:15)",
+                        "Do not be afraid, you worm Jacob, little Israel, do not fear, for I myself will help you,” declares the Lord, your Redeemer, the Holy One of Israel.(Isaiah 41:13-14)",
+                        "The Jews (whom believe in Christ) struck down all their enemies with the sword, killing and destroying them, and they did what they pleased to those who hated them.(Esther 9:5)",
+                        "From the book of Esther and Job, we are here on earth to suffer for as a greater reward is prepared by God",
+                        "Let's be humble and let God lead our way to the greater peace"
+                    ],
+            "OldTestament":[["Isaiah 41:13-14"], ["Esther"], ["Job"]],
+            "NewTestament":[["John 16:31-33"], ["John 17:14-17"]],
+            "SearchKey":["humble", "trouble", "reward"],
             "on": true
         },
         {
-            "Title":"Its beautiful",
+            "Title":"The Lamp, Its beautiful",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
             "NewTestament":[["Hebrews 11:13-16"], []],
