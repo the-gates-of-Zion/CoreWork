@@ -110,19 +110,32 @@
             "on": true
         },
         {
-            "Title":"I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.(John 16:33)",
+            "Title":"In this world you will have trouble. But take heart! I have overcome the world.(John 16:33)",
             "Message":[ "Jesus once said 'In this world you will have trouble. But take heart! I have overcome the world.' ", 
                         "Jesus do not pray that we leave this world, Jesus once Pray to God :'My prayer is not that you (God) take them out of the world but that you protect them from the evil one.'(John 17:15)",
                         "Do not be afraid, you worm Jacob, little Israel, do not fear, for I myself will help you,” declares the Lord, your Redeemer, the Holy One of Israel.(Isaiah 41:13-14)",
                         "The Jews (whom believe in Christ) struck down all their enemies with the sword, killing and destroying them, and they did what they pleased to those who hated them.(Esther 9:5)",
                         "From the book of Esther and Job, we are here on earth to suffer for as a greater reward is prepared by God",
-                        "Let's be humble and let God lead our way to the greater peace, for God knows how we will react, and lead us not in to temptation, but will lead us to victory against our own heart and indestructible joy.",
+                        "Let's be humble and let God lead our way to the greater peace, for God knows how we will react, and lead us not in to temptation and deliver us from evil, and will lead us to victory against our own heart and indestructible joy.",
                         "Therefore do not judge, either your action/thoughts/situation or other people action/thoughts/situation any more. Rest in peace let God save you in the name of Christ. ","'Because he loves me,' says the LORD, 'I will rescue him; I will protect him, for he acknowledges my name. He will call upon me, and I will answer him; I will be with him in trouble, I will deliver him and honor him. With long life will I satisfy him and show him my salvation. (Psalm 91:14-16)",
                         "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls (Matthew 11:29)"
                     ],
             "OldTestament":[["Isaiah 41:13-14"], ["Esther"], ["Job", "Genesis 50:19"]],
             "NewTestament":[["John 16:31-33"], ["John 17:14-17"], ["Matthew 11:29"]],
             "SearchKey":["humble", "trouble", "reward", "Judge"],
+            "on": true
+        },
+        {
+            "Title":"Do not be harsh on yourself, instead believe in Jesus only",
+            "Message":[ "Your regret is equivalence saying 'I don't trust in you, God. My mistake/sin is greater than you, God'",
+                        "Regret growth from your pride, be humble and rest and believe in God",
+                        "God show his love to you through the blood of his only son",
+                        "But as for me, I watch in hope for the LORD, I wait for God my Savior; my God will hear me.(Micah 7:7)" ],
+            "OldTestament":[["Micah 7:7"]],
+            "NewTestament":[["Romans 8:28"]],
+            "OldTestamentC":[["彌迦書 7:7"]],
+            "NewTestamentC":[["羅馬書 8:28"]],
+            "SearchKey":["believe", ""],
             "on": true
         },
         {
