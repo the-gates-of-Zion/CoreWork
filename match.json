@@ -5,11 +5,12 @@
             "Message":[ "Grace to Succeed the Law", 
                         "The Lord himself goes before you and will be with you;",
                         "he will never leave you nor forsake you.",
-                        "Do not be afraid; do not be discouraged."
+                        "Do not be afraid; do not be discouraged.",
+                        "discouraged implies that God knows that you will fail along the way to heaven, but God will NEVER forsake you"
                     ],
             "OldTestament":[["Exodus 7:14-25"], ["Deuteronomy 31:1-8"]],
             "NewTestament":[["John 2:1-10"], ["Hebrews 11:1-40","Hebrews 12:1" ]],
-            "SearchKey":["grace", "faith" , "miracle", "forgive"],
+            "SearchKey":["grace", "faith" , "miracle", "forgive", "discourage"],
             "on": true
         },
         {
@@ -33,7 +34,7 @@
                         "With the heart to glorified Jesus, require knowing that Jesus is the Grace of God",
                         "====== Grace has come ==========",
                         "God doesn't require you to do this thing right and that thing right to earn his approval, like Moses, because Jesus Christ has fulfilled the law",
-                        "There are no prophecy for judgement, only prophecy to encourage us to come close to him, and only correction towards Jesus",
+                        "After all, there are no prophecy for judgement, only prophecy to encourage us to come close to him, and only correction towards Jesus",
                         "Jesus can heal the sick without getting sick,", "he died on the cross, so that you can earn righteousness through him",
                         "This work can only be done by God, all servants like Moses, Elijah, their work only prepares for the true work from God",
                         "So every ministry work from man can almost prepare for God, only the work of God will last and succeed",
@@ -118,7 +119,8 @@
                         "From the book of Esther and Job, we are here on earth to suffer for as a greater reward is prepared by God",
                         "Let's be humble and let God lead our way to the greater peace, for God knows how we will react, and lead us not in to temptation and deliver us from evil, and will lead us to victory against our own heart and indestructible joy.",
                         "Therefore do not judge, either your action/thoughts/situation/past/future or other people's action/thoughts/situation/past/future any more. Rest in peace let God save you in the name of Christ. ","'Because he loves me,' says the LORD, 'I will rescue him; I will protect him, for he acknowledges my name. He will call upon me, and I will answer him; I will be with him in trouble, I will deliver him and honor him. With long life will I satisfy him and show him my salvation. (Psalm 91:14-16)",
-                        "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls (Matthew 11:29)"
+                        "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls (Matthew 11:29)",
+                        "Jesus overcome the world, that includes your trouble, your sin, all the trouble in the world, and the world itself"
                     ],
             "OldTestament":[["Isaiah 41:13-14"], ["Esther"], ["Job", "Genesis 50:19"]],
             "NewTestament":[["John 16:31-33"], ["John 17:14-17"], ["Matthew 11:29"]],
@@ -132,12 +134,31 @@
                         "God show his love to you through the blood of his only son",
                         "But as for me, I watch in hope for the LORD, I wait for God my Savior; my God will hear me.(Micah 7:7)",
                         "Jesus replied, “No one who puts a hand to the plow and looks back is fit for service in the kingdom of God(Luke 9:62)",
-                        "Let Jesus be the center of all things" ],
+                        "Let Jesus be the center of all things, and let him show you his love to you is more than your pass, your future and all that regarding you",
+                        "In this world you will have trouble. But take heart! I have overcome the world.(John 16:33)",
+                        "Jesus overcome the world, that includes your trouble, your sin, all the trouble in the world, and the world itself" ],
             "OldTestament":[["Micah 7:7"]],
             "NewTestament":[["Romans 8:28"], ["Luke 9:62"]],
             "OldTestamentC":[["彌迦書 7:7"]],
             "NewTestamentC":[["羅馬書 8:28"]],
             "SearchKey":["believe", "regret"],
+            "on": true
+        },
+        {
+            "Title":"Why the disciple that Jesus loved is written in John as 'the disciple that Jesus loved' ",
+            "Message":[ "Focus on pleasing Jesus your God will free you from this world",
+                        "Jesus does not belong to the authority in this world",
+                        "Authority in this world will not love you, as love only comes from God",
+                        "What you need is love, do not seek love in this world",
+                        "Seek for Jesus, and you will find love and be loved",
+                        "the disciple that Jesus love is not given a specific name in the Bible",
+                        "For me I think the Holy Spirit wants you to know 'the disciple that Jesus loved' represent you",
+                        "You can only find love in God because God is love. So no matter what you do, focus in Jesus " ],
+            "OldTestament":[[""], []],
+            "NewTestament":[["John 13:23", "John 20:2"], []],
+            "OldTestamentC":[[""], []],
+            "NewTestamentC":[[], []],
+            "SearchKey":["love", "world"],
             "on": true
         },
         {
