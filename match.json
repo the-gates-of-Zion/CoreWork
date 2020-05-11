@@ -194,6 +194,15 @@
             "on": true
         },
         {
+            "Title":"Take rest and let God do the rest",
+            "Message":[ "Take rest and let God do the rest",
+                        "Hallelujah!" ],
+            "OldTestament":[],
+            "NewTestament":[],
+            "SearchKey":["rest"],
+            "on": true
+        },
+        {
             "Title":"The Lamp, Its beautiful",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
