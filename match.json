@@ -194,6 +194,24 @@
             "on": true
         },
         {
+            "Title":"All",
+            "Message":[ "For if you are in Christ, everything God have are yours",
+                        "Because you can talk to God and God will alway give the best to you in Christ" ],
+            "OldTestament":[],
+            "NewTestament":[["Luke 15 :11-31"]],
+            "SearchKey":[""],
+            "on": true
+        },
+        {
+            "Title":"",
+            "Message":[ "",
+                        "" ],
+            "OldTestament":[],
+            "NewTestament":[],
+            "SearchKey":[""],
+            "on": false
+        },
+        {
             "Title":"Take rest and let God do the rest",
             "Message":[ "Take rest and let God do the rest",
                         "Hallelujah!" ],
