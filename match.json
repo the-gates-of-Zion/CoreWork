@@ -194,6 +194,16 @@
             "on": true
         },
         {
+            "Title":"Take rest, give thanks and Pray to God what you need",
+            "Message":[ "As goodness within originated from God not from us, take rest and let God lead your way",
+                        "Give Thanks to God of what you been through, of what God already given you, of what Christ has done for you",
+                        "Pray to God and seek so that God can bless you" ],
+            "OldTestament":[],
+            "NewTestament":[["Luke 15 :11-31"]],
+            "SearchKey":[""],
+            "on": true
+        },
+        {
             "Title":"All",
             "Message":[ "For if you are in Christ, everything God have are yours",
                         "Because you can talk to God and God will alway give the best to you in Christ" ],
