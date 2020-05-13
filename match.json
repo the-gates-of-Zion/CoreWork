@@ -207,11 +207,12 @@
             "on": false
         },
         {
-            "Title":"All",
-            "Message":[ "For if you are in Christ, everything God have are yours",
+            "Title":"There are really nothing belongs to you except peace that Jesus give you",
+            "Message":[ "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.(John 14:27)",
+                        "For if you are in Christ, everything God have are yours",
                         "Because you can talk to God and God will alway give the best to you in Christ" ],
             "OldTestament":[],
-            "NewTestament":[["Luke 15 :11-31"]],
+            "NewTestament":[["John 14:27"],["Luke 15 :11-31"]],
             "SearchKey":[""],
             "on": true
         },
