@@ -217,6 +217,20 @@
             "on": true
         },
         {
+            "Title":"Your identity",
+            "Message":[ "Knowing the truth will set you free",
+                        "You are not justify by the law and can't survive the Judgement, but God sent Jesus and take away your sin",
+                        "You can't revert the wrong doings you have done, but God restore the wrong doings you have done with more grace than you can imagine",
+                        "You can't surpass temptation but God lead you not into temptation, but deliver you from evil",
+                        "You can't perform any good acts because there are nothing good within you, but God give you his holy spirit to restore your heart",
+                        "You are a servant of sin, but God restore your identity through Jesus to be the son of God",
+                        "God restore your identity - Prince and the high priest, through Jesus. So, have peace like a Prince, so that you can enjoy the work of God not your work" ],
+            "OldTestament":[],
+            "NewTestament":[],
+            "SearchKey":[""],
+            "on": false
+        },
+        {
             "Title":"",
             "Message":[ "",
                         "" ],
