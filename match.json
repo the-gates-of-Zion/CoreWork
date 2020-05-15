@@ -231,11 +231,14 @@
             "on": false
         },
         {
-            "Title":"",
-            "Message":[ "",
-                        "" ],
-            "OldTestament":[],
-            "NewTestament":[],
+            "Title":"Christian bind by contract",
+            "Message":[ "Jehoshaphat (belong to Christ) bind a contract with Ahab (belongs to the world)",
+                        "Now Jehoshaphat had great wealth and honor, and he allied himself with Ahab by marriage. (2 Chronicles 18:1)",
+                        "Christian with suffer if they bound a contract with non-Christian, either in business or in marriage",
+                        "When the chariot commanders saw Jehoshaphat, they thought, “This is the king of Israel.” So they turned to attack him, but Jehoshaphat cried out, and the Lord helped him. God drew them away from him, (2 Chronicles 18:31)",
+                        "But when you call out to Christ for mercy, God will have mercy on you" ],
+            "OldTestament":[["2 Chronicles 18:1","2 Chronicles 18:31"]],
+            "NewTestament":[""],
             "SearchKey":[""],
             "on": false
         },
