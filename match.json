@@ -11,7 +11,8 @@
             "OldTestament":[["Deuteronomy 31:7-8"]],
             "NewTestament":[],
             "SearchKey":["grace", "faith" , "miracle", "forgive", "discourage"],
-            "on": true
+            "on": true,
+            "order": 1
         },
         {
             "Title":"Law, Punishment, Grace",
@@ -66,7 +67,8 @@
             "OldTestament":[["2 Samuel 9:1-13"]],
             "NewTestament":[["Matthew 20:1-16"]],
             "SearchKey":["grace", "son", "rest", "servant", "law", "grumble"],
-            "on": true
+            "on": true,
+            "order": 2
         },
         {
             "Title": "Jesus told him, 'Don’t be afraid; just believe.' (Mark 5:36)",
@@ -299,7 +301,7 @@
             "on": false
         },
         {
-            "Title":"Will let God give you the Best, and let God takes your greatest fear?",
+            "Title":"Will let God give you all the Best, and let God takes your all and greatest fear?",
             "Message":[ "Have faith, God will take you home",
                         "Have faith and do not fear",
                         "God have given even his only son, to show his love",
@@ -333,6 +335,16 @@
             "OldTestament":[["Genesis 1:1-2"], []],
             "NewTestament":[["Matthew 14:22-33"], []],
             "SearchKey":["water", "walk on water", "storm"],
+            "on": true
+        },
+        {
+            "Title":"Do not choose fear, choose fear instead",
+            "Message":[ "Bilhah means bashful/fear in Hebrew",
+                        "Do not be with fear, be with Jesus",
+                        "Run away from fear, you need to be with Jesus" ],
+            "OldTestament":[["Genesis 38:17-18", "Genesis 35:22", "Genesis 49:3-4"], []],
+            "NewTestament":[["Matthew 14:22-33"], []],
+            "SearchKey":["lamp", "church"],
             "on": true
         },
         {

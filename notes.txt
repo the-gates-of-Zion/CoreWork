@@ -1,0 +1,37 @@
+https://www.youtube.com/watch?v=y8E_2KF0uvM
+https://www.youtube.com/watch?v=GIu-Zw5lf0s
+
+"Title": "Servant and Son",
+            "Message":[ "(Matthew 20:11) When they (servants) received it, they began to grumble against the landowner",
+                        "We live for God, Not Work for God",
+                        "We inherit the Kingdom of God with all the Good things within, such as life and Joy",
+                        "We will always eat at God's table (2 Samuel 9:10)",
+                        "But those whom treat himself under the law, should act like servant (Ziba), and work for those whom enjoy the Grace of God (2 Samuel 9:9-10)",
+                        "Have Faith and have sight and take the Grace that we do not deserve",
+                        "Can you picture yourself rejoice in heaven? you will rejoice in heaven as it is on earth",
+                        "Give Thanks to God by your heart, not by work and take rest, God will do the rest",
+                        "Servants grumble, Son take rest",
+                        "====== Enjoy, not work (2 Samuel 9:13) =====",
+                        "(2 Samuel 9:13) So Mephibosheth (You) lived in Jerusalem (heaven),",
+                        "for he ate always at the king’s table => (Always enjoy all the goodness from God).",
+                        "Now he was lame in both his feet. => (Even you are lame, don't worry, you can always eat and enjoy, but not work anymore)",
+                        "Be the Son of God, not the servant of anything"
+            ],
+            "OldTestament":[["2 Samuel 9:1-13"]],
+            "NewTestament":[["Matthew 20:1-16"]],
+            "SearchKey":["grace", "son", "rest", "servant", "law", "grumble"],
+            "on": true,
+            "order": 2
+
+"Will let God give you all the Best, and let God takes your all and greatest fear?"
+"Message":[ "Have faith, God will take you home",
+                        "Have faith and do not fear",
+                        "God have given even his only son, to show his love",
+                        "Why won't God give you all the blessing? If sin is the barrier between you and God, God even give his son to bear the punishment such that you may inherit all God's creation and blessing",
+                        "Out of all things, peace is the greatest blessing of all",
+                        "From peace, joy and thankful heart can grow from it",
+                        "If you rule over all heavens and earth, but you have no peace, you have nothing",
+                        "Let God takes your greatest fear, as God loves you so much",
+                        "Hallelujah!" ],
+            "OldTestament":[],
+            "NewTestament":[["John 14:27"]],
