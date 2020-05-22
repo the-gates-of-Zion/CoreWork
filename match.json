@@ -348,6 +348,15 @@
             "on": true
         },
         {
+            "Title":"Have faith, take rest, victory",
+            "Message":[ "Abraham Isaac, Israel(Jacob), represent the life of a Christian",
+                        "Have faith, take rest, victory"],
+            "OldTestament":[],
+            "NewTestament":[],
+            "SearchKey":[],
+            "on": true
+        },
+        {
             "Title":"The Lamp, Its beautiful",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
