@@ -388,6 +388,16 @@
             "on": true
         },
         {
+            "Title":"Blessings from God, does not add worry to your life",
+            "Message":[ "The blessing of the Lord makes one rich, And He adds no sorrow with it. (Proverbs 10:22)",
+                        "'Father, if you are willing, take this cup from me; yet not my will, but yours be done.' (Luke 22:42)",
+                        "“I’m going out to fish,” Simon Peter told them, and they said, “We’ll go with you.” So they went out and got into the boat, but that night they caught nothing. (John 21:3)"],
+            "OldTestament":[],
+            "NewTestament":["John 21:3-14"],
+            "SearchKey":[["Proverbs 10:22"]],
+            "on": true
+        },
+        {
             "Title":"The Lamp, Its beautiful",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
