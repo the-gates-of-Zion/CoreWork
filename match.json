@@ -388,13 +388,23 @@
             "on": true
         },
         {
-            "Title":"Blessings from God, does not add worry to your life",
+            "Title":"receive blessing by faith, not by work",
             "Message":[ "The blessing of the Lord makes one rich, And He adds no sorrow with it. (Proverbs 10:22)",
-                        "'Father, if you are willing, take this cup from me; yet not my will, but yours be done.' (Luke 22:42)",
-                        "“I’m going out to fish,” Simon Peter told them, and they said, “We’ll go with you.” So they went out and got into the boat, but that night they caught nothing. (John 21:3)"],
+                        "“I’m going out to fish,” Simon Peter told them, and they said, “We’ll go with you.” So they went out and got into the boat, but that night they caught nothing. (John 21:3)",
+                        "By Faith said:'The Lord himself goes before you (me) and will be with you (me); he WILL NEVER leave you (me) nor forsake you. Do not be afraid (By ANY condemnation); do not be discouraged (By my wrong doings).'"],
             "OldTestament":[],
             "NewTestament":["John 21:3-14"],
-            "SearchKey":[["Proverbs 10:22"]],
+            "SearchKey":[["Proverbs 10:22"], ["Deuteronomy 31:7-8"]],
+            "on": true
+        },
+        {
+            "Title":"God sacrifice his son, so that God can bring you back in righteous",
+            "Message":[ "When you sin, you must pay for your wrong doings through sacrifice of what is originally yours",
+                        "Why the death of Jesus can save you? Because God wants to make you righteous, so God sacrifice his son. So that God can call you righteous in righteousness",
+                        "That's why God loves you before you obey God"],
+            "OldTestament":[],
+            "NewTestament":[""],
+            "SearchKey":[[""], [""]],
             "on": true
         },
         {
