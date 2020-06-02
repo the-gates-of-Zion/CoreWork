@@ -422,10 +422,18 @@
         },
         {
             "Title":"little faith is more than enough",
-            "Message":["According to your little faith, everything will give you as long as you come with whatever intension"],
+            "Message":[ "According to your little faith, everything will give you",
+                        "Do not afraid, just believe, there are more than enough"],
             "NewTestament":[["Matthew 8:6-13", "Matthew 9:21-22","Luke 8:42-48"]],
             "on": true
-
+        },
+        {
+            "Title":"For God so loved the world, as to give his only begotten Son",
+            "Message":[ "God loves you and want to gives you eternal life",
+                        "But you have sin (e.g. hurting others), and according to righteousness, you must die. So God sent his son and die for your sin as his son have no sin",
+                        "Who ever accusing you in the future or present or past (including your conscience) will become unrighteous, as your punishment has been paid by God, so in righteous you have no sin"],
+            "NewTestament":[["John 3:16"]],
+            "on": true
         },
         {
             "Title":"The Lamp, Its beautiful",
