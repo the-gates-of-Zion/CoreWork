@@ -479,10 +479,26 @@
             "on": true        
         },
         {
+            "Title":"God ONLY cares about you have faith in his son Jesus",
+            "Message":[ "God makes your problem fears you (Joshua 6:1) ",
+                        "Go and eat, and put your though and mind and words with joyful and peaceful and thanks giving.(1 Samuel 1:18)",
+                        "Do not fear and take rest (1 Samuel 13:8-15) BECAUSE IT IS NEVER YOUR FIGHT (Joshua 5:13-15)",
+                        "Grabbed tight on his mercy and grace in Christ (1 Samuel 14:6-15, Psalm 1:2) and rest in him",
+                        "God will makes you prosper for whatever you do (Psalm 1:3)"
+                    ],
+            "OldTestament":[["Joshua 5:13-15, Joshua 6:1"],["1 Samuel 13:8-15"],["1 Samuel 14:6-15, Psalm 1:2-3"]],
+            "NewTestament":[],
+            "OldTestamentC":[["約書亞記 5:13-15, 約書亞記 6:1"], ["撒母耳記上 13:8-15, 詩篇 1:2-3"]],
+            "NewTestamentC":[[], []],
+            "SearchKey":["fear","rest"],
+            "on": true
+        },
+        {
             "Title":"Faith and joy",
             "Message":[ "You see the future imagery of what you have asked for ",
                         "served the Lord only, (1 Samuel 7:4) , grabbed tight on his mercy and grace in Christ and rest on his mercy and grace",
-                        "Go and eat, and put your though and mind and words with joyful and peaceful and thanks giving.(1 Samuel 1:18)"
+                        "Go and eat, and put your though and mind and words with joyful and peaceful and thanks giving.(1 Samuel 1:18)",
+                        
                     ],
             "OldTestament":[["1 Samuel 1:18", "1 Samuel 7:4"], []],
             "NewTestament":[],
