@@ -512,6 +512,19 @@
             "on": true
         },
         {
+            "Title":"The grace of God is infinite",
+            "Message":[ "Unless you say you lack of container to hold the Grace (2 Kings 4:1-6)", 
+                        "The Grace of God NEVER stop (2 Kings 4:1-6)",
+                        "God like to use what you have, no matter how small, to provide more than abundance (2 Kings 4:1-6)" 
+                    ],
+            "OldTestament":[["2 Kings 4:1-6"], []],
+            "NewTestament":[[], []],
+            "OldTestamentC":[["列王紀下 4:1-6"], []],
+            "NewTestamentC":[[], []],
+            "SearchKey":["infinite Grace"],
+            "on": true
+        },
+        {
             "Title":"The Lamp, Its beautiful",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
