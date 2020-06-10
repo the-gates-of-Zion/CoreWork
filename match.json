@@ -515,11 +515,12 @@
             "Title":"The grace of God is infinite",
             "Message":[ "Unless you say you lack of container to hold the Grace (2 Kings 4:1-6)", 
                         "The Grace of God NEVER stop (2 Kings 4:1-6)",
-                        "God like to use what you have, no matter how small, to provide more than abundance (2 Kings 4:1-6)" 
+                        "God like to use what you have, no matter how small, to provide more than abundance (2 Kings 4:1-6)",
+                        "You need to rest in God as rest shows your faith in God, otherwise, you will see others received the Grace of God but you won't get it (2 Kings 7:2)"
                     ],
-            "OldTestament":[["2 Kings 4:1-6"], []],
+            "OldTestament":[["2 Kings 4:1-6"], ["2 Kings 7:2"]],
             "NewTestament":[[], []],
-            "OldTestamentC":[["列王紀下 4:1-6"], []],
+            "OldTestamentC":[["列王紀下 4:1-6"], ["列王紀下 7:2"]],
             "NewTestamentC":[[], []],
             "SearchKey":["infinite Grace"],
             "on": true
