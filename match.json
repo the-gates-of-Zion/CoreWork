@@ -492,7 +492,7 @@
                     ],
             "OldTestament":[["Joshua 5:13-15, Joshua 6:1"],["1 Samuel 1:15-18","1 Samuel 13:8-15"],["Psalm 1:2-3"]],
             "NewTestament":[["Luke 18:1-8"]],
-            "OldTestamentC":[["約書亞記 5:13-15, 約書亞記 6:1"],["撒母耳記上 1:15-18","撒母耳記上 13:8-15"] ,[["詩篇 1:2-3"]],
+            "OldTestamentC":[["約書亞記 5:13-15, 約書亞記 6:1"],["撒母耳記上 1:15-18","撒母耳記上 13:8-15"] ,[["詩篇 1:2-3"]]],
             "NewTestamentC":[["路加福音 18:1-8"]],
             "SearchKey":["fear","rest"],
             "on": true
