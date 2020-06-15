@@ -561,6 +561,27 @@
             "NewTestament":["John 19:30"]
         },
         {
+            "Title": "You can pray with groanings, God will hear",
+            "Message":[ "And in like manner the Spirit also helpeth our infirmity: for we know not how to pray as we ought; but the Spirit himself maketh intercession for us with groanings which cannot be uttered; (Romans 8:26)",
+                        "Sometimes you can't even speak but just morn and God will hear",
+                        "I have surely seen the affliction of my people that is in Egypt, and have heard their groaning, and I am come down to deliver them: and now come, I will send thee into Egypt. (Acts 7:34)",
+                        "And it came to pass in the course of those many days, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.(Exodus 2:23)",
+                        "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.(Exodus 2:24)",
+                        "And God saw the children of Israel, and God took knowledge of them (Exodus 2:25)",
+                        "and looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened (Mark 7:34)"
+
+                    ],
+            "MessageC":[ "況且，我們軟弱的時候，有聖靈幫助我們。我們本來不知道怎樣禱告，但聖靈親自用說不出來的歎息替我們祈禱; (Romans 8:26)",
+                         " 我已清楚看見我子民在埃及所受的苦難，也聽見了他們的哀歎，我下來要救他們。你來，我要派你回埃及(使徒行傳 7:34)",
+                         "過了多年，埃及王死了。以色列人受盡奴役，就哀歎呼求，聲音傳到上帝那裡。 24 上帝聽見他們的哀聲，顧念從前跟亞伯拉罕、以撒、雅各所立的約， 25 就垂顧他們，體恤他們 (出埃及記 2:23-25)",
+                         "33 耶穌就帶他離開眾人走到一邊，用指頭伸進他的耳朵，又吐唾沫抹他的舌頭， 34 望天長歎，對他說：「以法大！」意思是「開了吧！」"
+            ],
+            "OldTestament":["Exodus 2:23-25"],
+            "OldTestamentC":["出埃及記 2:23-25"],
+            "NewTestament":["Romans 8:26","Acts 7:34", "Mark 7:34"],
+            "NewTestamentC":["羅馬書 8:26","使徒行傳 7:34","馬可福音 7:33-34"]
+        },
+        {
             "Title":"The Lamp, Its beautiful",
             "Message":[ "Jesus is the center of all the things you do" ],
             "OldTestament":[["Daniel 3:1-30"], []],
