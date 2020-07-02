@@ -7,6 +7,14 @@
             ]
         }
         ,
-        {}
+        {
+            "match":{
+                "Jesus": "He (Jesus) was in anguish and prayed even more earnestly. His sweat became like drops of blood falling on the ground (Luke 22:44)",
+                "B": "Because you (Adam) listened to your wife’s voice and you (Adam) ate from the tree that I  commanded ...cursed is the fertile land because of you ... by the sweat of your face you will eat bread ... (Genesis 3:17-19)"
+            },
+            "message":[
+                "Jesus suffer for your anxiety and his blood cleanse you so that you can have rest"
+            ]
+        }
     ]
 }
